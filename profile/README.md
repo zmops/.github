@@ -1,3 +1,7 @@
 Shanghai Guanzong Technology Co., Ltd., a high-tech enterprise focusing on IT operation and maintenance and observability software products development, has released open source projects such as Webfunny and ArgusDBM, and also developed commercial products such as "Zabbix plus" and "Skywalking plus" from the perspective of front-end monitoring and burying point, full-link tracing, IT infrastructure monitoring and other O&M scenarios.
 
 We benefit from the community and will continue to contribute to and interact with the community. We will open source more projects in the future. Follow us and hope to meet you at future meetups and offline industry summits.
+
+----
+
+## Guanzong Technology | [中文文档](README_CN.md)
