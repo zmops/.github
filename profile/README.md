@@ -3,5 +3,4 @@ Shanghai Guanzong Technology Co., Ltd., a high-tech enterprise focusing on IT op
 We benefit from the community and will continue to contribute to and interact with the community. We will open source more projects in the future. Follow us and hope to meet you at future meetups and offline industry summits.
 
 ----
-
-## Guanzong Technology | [中文文档](README_CN.md)
+#### Guanzong Technology | [中文简介](README_CN.md)
